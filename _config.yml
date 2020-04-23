@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Multi Domain Engineer"
+title                    : ""
 title_separator          : " - "
-subtitle                 : Proactive and Self-motivated Mechanical Engineer; highly efficient when meeting lead times, quality, and target costs
+subtitle                 : "A mechanical engineer who likes coding and 3d printer"
 name                     : "Hyungjoo Yi"
 description              : "Do what I want, what I can"
 url                      : # "https://mmistakes.github.io"
@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an engineer who love new technology and make something new"
   location         : "Toronto, Canada"
-  email            : "Hyungjooyi93@gmail.com"
+ # email            : "Hyungjooyi93@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
